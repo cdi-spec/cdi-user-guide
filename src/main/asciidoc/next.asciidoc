@@ -1,0 +1,15 @@
+[[next]]
+== Next steps
+
+A lot of additional information on CDI can be found online. Regardless,
+the CDI specification remains the authority for information on CDI. The
+spec is less than 100 pages and is quite readable (don't worry, it's not
+like your Blu-ray player manual).
+Of course, it covers many details we've skipped over here.
+The spec is available on the http://www.cdi-spec.org/download/[download page of the CDI Website^].
+
+The http://cdi-spec.org[cdi-spec.org] website is probably your main entry point to learn more about CDI.
+You'll find information about the spec, link to frameworks and libs supporting CDI and resource to go further on learning CDI.
+
+The source of this guide is available on https://github.com/cdi-spec/cdi-user-guide[github]
+Feel free to fill ticket or send PR if you want to make this document better.
