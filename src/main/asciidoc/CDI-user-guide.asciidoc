@@ -17,10 +17,10 @@ v1.0, May 2016
 [preface]
 = Foreword
 
-This documentation is a fork of the Weld (CDI Refererence implementation) documentation.
+This documentation is a fork of the Weld (CDI Reference implementation) documentation.
 All Weld specific references were removed in order to provide implementation independent introduction to CDI programming model.
 
-This document is maintained by the authors listed above its title, it is a collective work including the following people:
+This document is maintained by the authors listed below its title yet, it is a collective work including the following people:
 
 * Jozef Hartinger
 * Pete Muir
