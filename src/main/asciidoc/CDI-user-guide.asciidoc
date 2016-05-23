@@ -10,7 +10,7 @@
 :source-highlighter: highlight.js
 
 = CDI 1.2 User guide
-Antoine Sabot-Durand <asd@redhat.com>; Martin Kouba <mkouba@redhat.com>; Matej Novotny <mnovotny@redhat.com>; Tomas Remes <tremes@redhat.com>
+Antoine Sabot-Durand <asd@redhat.com>; Martin Kouba <mkouba@redhat.com>; Matej Novotny <manovotn@redhat.com>; Tomas Remes <tremes@redhat.com>
 v1.0, May 2016
 
 
@@ -18,9 +18,9 @@ v1.0, May 2016
 = Foreword
 
 This documentation is a fork of the Weld (CDI Refererence implementation) documentation.
-We removed all Weld specific mention to provide readers a good introduction to CDI programming model.
+All Weld specific references were removed in order to provide implementation independent introduction to CDI programming model.
 
-If this documentation is maintained by the authors listed above its title, it is a collective work including the following people:
+This document is maintained by the authors listed above its title, it is a collective work including the following people:
 
 * Jozef Hartinger
 * Pete Muir
@@ -28,7 +28,7 @@ If this documentation is maintained by the authors listed above its title, it is
 * David Allen
 * Gavin King
 
-While this documentation is probably easier to read than the specification, we encourage you http://docs.jboss.org/cdi/spec/1.2/cdi-spec.html[to give a look at it^], should you need deeper understanding of the CDI platform.
+While this document is probably easier to read than the specification, we encourage you http://docs.jboss.org/cdi/spec/1.2/cdi-spec.html[to take a look at it^], should you need deeper understanding of the CDI platform.
 
 The source of this guide is available on https://github.com/cdi-spec/cdi-user-guide[github]
 Feel free to fill ticket or send PR if you want to make this document better.
