@@ -179,8 +179,7 @@ Since we're informing the container that our alternative bean is meant
 to stand in as a replacement for the default implementation, the
 alternative implementation automatically inherits all qualifiers of the
 default implementation. Thus, in our example,
-`MockCreditCardPaymentProcessor` inherits the qualifiers `@Default` and
-`@CreditCard`.
+`MockCreditCardPaymentProcessor` inherits the qualifier `@CreditCard`.
 
 Furthermore, if the default implementation declares a bean EL name using
 `@Named`, the name is inherited by the specializing alternative bean.
